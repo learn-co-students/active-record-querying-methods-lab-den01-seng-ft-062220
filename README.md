@@ -50,7 +50,7 @@ that will help you pass these tests:
 - [Ordering](http://guides.rubyonrails.org/active_record_querying.html#ordering)
 - [Conditions](http://guides.rubyonrails.org/active_record_querying.html#conditions)
 
-## Instructions
+## Instruction(s)
 
 ### Migration
 

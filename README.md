@@ -6,7 +6,7 @@
 ## Overview
 
 In this lab, we'll be working in a TV show domain. We have a TV show model, the
-`Show` class, and a `shows` table that you'll create in your database.
+`Show` class, and a `shows` table that you'll create in the database.
 
 You'll be required not only to write a migration that creates a `shows` table
 and gives the `Show` class certain attributes, but also to use Active Record's
